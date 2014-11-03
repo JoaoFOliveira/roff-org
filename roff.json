@@ -1,0 +1,34 @@
+[
+  {
+    "sText:Text":"",
+    "Enterprise:Nome":"ROFF",
+    "RoffUser:Display Name":"Manager 1",
+    "RoffUser:Birth Date":"1978-10-18 00:00",
+    "RoffUser:Mobile Phone":"9XXXXXXXX",
+    "RoffUser:Phone":"",
+    "RoffUser:Email":"email@roff.pt",
+    "RoffUser:Indicativo Pais Mobile Phone":"+351",
+    "RoffUser:Indicativo Pais Phone":"",
+    "ContractType:Quadro":"TRUE",
+    "LocalTrabalho:Nome":"Porto",
+    "AreaFuncional:Nome Area":"SAP SCM & PLM",
+    "Area:Name":"SAP SCM & PLM",
+    "FIELD14":""
+  },
+  {
+    "sText:Text":"Manager 1",
+    "Enterprise:Nome":"ROFF",
+    "RoffUser:Display Name":"Employee 1",
+    "RoffUser:Birth Date":"1978-10-18 00:00",
+    "RoffUser:Mobile Phone":"9XXXXXXXX",
+    "RoffUser:Phone":"",
+    "RoffUser:Email":"email@roff.pt",
+    "RoffUser:Indicativo Pais Mobile Phone":"+351",
+    "RoffUser:Indicativo Pais Phone":"",
+    "ContractType:Quadro":"TRUE",
+    "LocalTrabalho:Nome":"Porto",
+    "AreaFuncional:Nome Area":"SAP SCM & PLM",
+    "Area:Name":"SAP SCM & PLM",
+    "FIELD14":""
+  }
+]
